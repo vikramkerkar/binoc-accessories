@@ -1,0 +1,26 @@
+[
+  {
+  "id": "Bushnell Advanced Titanium Tripod",
+  "productName": "Advanced Titanium Tripod",
+  "price": 149,
+  "description": "features three-position leg angle adjustment, three-way pan head",
+  "imageUrl": "https://www.bushnell.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-shootAccessory-master-catalog/default/dwca0bf01d/images/large/AdvancedTripod_784030_Detail_Head_1_APlus.jpg?sw=300&sh=300&sm=fit"
+},
+  {
+  "id": "Nikon Polarizing filter",
+  "productName": "Polarizing filter",
+  "price": 30,
+  "description": "This filters out light reflections from water or glass."
+  "imageUrl" : "https://imaging.nikon.com/sport-optics/lineup/binoculars/accessory/img/pic_005.jpg"
+  },
+  {
+  "id": "Vortex Binocular Harness",
+  "productName": "Binocular Harness",
+  "price": 75,
+  "description": "One-size-fits-all harness is easy to attach and completely adjustable."
+  "imageUrl" : "https://vortexoptics.com/media/catalog/product/h/a/harness_strap_full_w.jpeg?quality=80&bg-color=255,255,255&fit=bounds&height=269&width=269&canvas=269:269&dpr=2"
+  }
+
+]
+  
+  
