@@ -1,4 +1,5 @@
-[
+{
+    "accessories" : [
     {
         "id": "Bushnell Advanced Titanium Tripod",
         "productName": "Advanced Titanium Tripod",
@@ -21,3 +22,4 @@
         "imageUrl": "https://vortexoptics.com/media/catalog/product/h/a/harness_strap_full_w.jpeg?quality=80&bg-color=255,255,255&fit=bounds&height=269&width=269&canvas=269:269&dpr=2"
     }
 ]
+}
